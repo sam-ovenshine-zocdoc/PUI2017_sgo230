@@ -1,1 +1,1 @@
-
+Worked primarily solo on this assignment. Some discussion about best module to use for the API calls and csv creation with Sean Chen. Asked Yukun Wan about plotting best for Part 3 of the assignment. Shared my workaround for accessing data on Compute when the catalog URL errored out with Matt Sauter.
