@@ -1,5 +1,11 @@
-Worked solo on Assignment 1 (as required)
-Worked solo on Assignment 2
+Worked solo on Assignment 1 (as required)<br>
+Used the repository of Chun-Chieh Tsai (cct367@nyu.edu; https://github.com/DishT)<br><br>
+
+Worked solo on Assignment 2 to gather summary tables for various studies (see table below)<br><br>
+
+Worked solo on Assignment 3<br><br>
+  
+<b>Assignment 2 table:<b>
 
 
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
