@@ -5,9 +5,10 @@ Link to my analysis: https://github.com/sgo230/PUI2017_cct367/blob/master/HW3_cc
 
 Worked solo on Assignment 2 to gather summary tables for various studies (see table below)<br><br>
 
-Worked solo on Assignment 3. GitHub is having trouble displaying the .ipynb file, but it is correctly viewable in this generic Notebook viewer tool: https://nbviewer.jupyter.org/github/sgo230/PUI2017_sgo230/blob/master/HW4_sgo230/Assignment%203.ipynb. Please see my note about the sidedness of the test - went against Federica's skeleton notebook example and my best intuition in constructing the hypothesis tests in order to replicate the paper's results.<br><br>
+Worked solo on Assignment 3. GitHub is having trouble displaying the .ipynb file, but it is correctly viewable in this generic Notebook viewer tool: https://nbviewer.jupyter.org/github/sgo230/PUI2017_sgo230/blob/master/HW4_sgo230/Assignment%203.ipynb. <br>
+Please see my note about the sidedness of the test - went against Federica's skeleton notebook example and my best intuition in constructing the hypothesis tests in order to replicate the paper's results.<br><br>
 
-Worked primarily solo on Assignment 4. Helped Davey with portions of the lat/long -> borough conversion. Offered other general assistance on that part to a few other CUSP students (not specific code but advice/guidelines).
+Worked primarily solo on Assignment 4. Helped Davey with portions of the lat/long -> borough conversion. Offered other general assistance on that part to a few other CUSP students (not specific code but advice/guidelines). Same issue as above - notebook not rendering in GitHub. Viewable here: https://nbviewer.jupyter.org/github/sgo230/PUI2017_sgo230/blob/master/HW4_sgo230/Assignment%204.ipynb.
   
 <b>Assignment 2 table:<b>
 
