@@ -1,5 +1,7 @@
 Worked solo on Assignment 1 (as required)<br>
-Used the repository of Chun-Chieh Tsai (cct367@nyu.edu; https://github.com/DishT)<br><br>
+Used the repository of Chun-Chieh Tsai (cct367@nyu.edu; https://github.com/DishT)<br>
+Link to my analysis: https://github.com/sgo230/PUI2017_cct367/blob/master/HW3_cct367/CibibikeReview_sgo230.md (also merged with his repo)
+<br><br>
 
 Worked solo on Assignment 2 to gather summary tables for various studies (see table below)<br><br>
 
