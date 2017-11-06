@@ -26,3 +26,8 @@ Multiple regression	| 4, daily climate data, soil information, total available w
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 Logistic regression	| 5, five marker combinations from flow cytometry measurements | categorical | 1, presence of acute myeloid leukemia (AML) | categorical (yes/no) | | | Is paper's machine learning model better at detecting AML using flow cytometry markers than existing models (EDF-MSE/LR-LASSO, Vilar, Biehl et al., Mean/LR-LASSO, and Mean/LDA)? | Existing models' AML detection rates >= the machine learning model's detection rate | 0.05 | [Leukemia Prediction Using Sparse Logistic Regression](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0072932) |
+
+# FBB ANCOVA: the IV is not test or not test, but the rhGH vs rosiglitazone + rhGH, or all studies would have the same IV. 
+# multiple regression:  what is this simbol <>? do you mean == ? 
+
+# otherwise ok
