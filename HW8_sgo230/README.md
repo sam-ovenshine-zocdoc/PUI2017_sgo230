@@ -1,2 +1,3 @@
 Worked solo on assignment as required.
-![(My file)nyc_small_multiples.png]
+<br><br>
+![My Map](nyc_small_multiples.png)
