@@ -6,4 +6,4 @@ Direct link to Authorea: https://www.authorea.com/users/175549/articles/210957-s
 
 Carto Map at end of SQL assignment (link also contained in .ipynb file):
 
-![Carto Map](Carto Map Screenshot.PNG)
+![Carto Map](carto_screenshot.png)
