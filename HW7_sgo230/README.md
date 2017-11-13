@@ -3,3 +3,7 @@ Worked solo on this assignment. Incorporated feedback from Hao Xi on my initial 
 Some SQL queries taken directly from in-class exercises with Professor Vo.
 
 Direct link to Authorea: https://www.authorea.com/users/175549/articles/210957-scholarly-article.
+
+Carto Map at end of SQL assignment (link also contained in .ipynb file):
+
+![Carto Map](Carto Map Screenshot.PNG)
