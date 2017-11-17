@@ -1,3 +1,5 @@
+![plot](ad4336 plot.png)
+
 This is a thoughtful visualization, and I appreciate how it is written in R rather than Matplotlib - the appearance is strikingly different from plots we've created and reviewed so far in the class. I think it even manages to justify its use of the much-maligned pie/donut chart.
 
 Elements that strike me positively are the legend embedded in the title, the color scheme, the simplicity, and the symmetry. I also appreciate the choice of data set - it is current, playful, and still related to cities and the class curriculum.
