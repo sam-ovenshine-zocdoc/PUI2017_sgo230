@@ -1,4 +1,4 @@
-![plot](ad4336 plot.png)
+![plot](ad4336_plot.png)
 
 This is a thoughtful visualization, and I appreciate how it is written in R rather than Matplotlib - the appearance is strikingly different from plots we've created and reviewed so far in the class. I think it even manages to justify its use of the much-maligned pie/donut chart.
 
