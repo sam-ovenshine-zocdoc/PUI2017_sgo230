@@ -6,6 +6,12 @@ Elements that strike me positively are the legend embedded in the title, the col
 
 Points that I would adjust include the typesetting and general rendering - it is a bit pixelated and the 3-star review labels are incorrectly padded. I wish there was a caption with analysis and more information about the construction of the plot. 
 
+# FBB ok
+some good points, but I aksed to comment explicitly along  3 axes: clarity esthetic and honesty. In addition a significant omission is the fact that you did not notice the color schme is not color blind compliant. Red and green are pretty much the poster child for color scheme that violates color-blindness safety rules
+
+9/10
+
+
 If you read through the script, the student has selected the two cities by the number of reviews. But it's not clear just from the markdown file why Las Vegas and Toronto are being used. The student actually did more work than they acknowledge. In addition, the plots actually capture something fascinating: the polarization of reviews, moving from a fairly even mix of ratings to a higher grouping of extreme ratings (1s and 5s). Next time, the student could even include a measure to quantitatively describe that effect: https://en.wikipedia.org/wiki/Herfindahl_index.
 
 Overall, really nice. And I'm actually surprised Las Vegas has that many 5-star ratings. So I learned something from this.
